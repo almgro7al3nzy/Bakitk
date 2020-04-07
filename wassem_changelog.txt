@@ -1,0 +1,27 @@
+{"version_code":452666,"content":"
+
+
+<p>تحديث جديد 2.80</p>
+<li>نسخة مبنية على الإصدار  2.19.216.</li>
+<li>تفعيل ميزة قفل البصمة و كافة الميزات التجريبية.</li>
+<li>إضافة خيار لإعادة التوجيه بدون ظهور رسالة مُحولة.</li>
+<li>إضافة خيار لإظهار إشعار عند مشاهدة حالتك / الستوري.</li>
+<li>إضافة خيار لإنشاء اختصار لـ WAPro مع تغيير اسم الاختصار.</li>
+<li>تحسين واجهات القفل (قفل النمط و PIN) + تحسينات عامة.</li>
+<li>إصلاح مشكلة الإنهيار في شاشة المحادثة عند بعض الأجهزة.</li>
+<li>دعم اللغة الأذربيجانية.</li>
+
+
+<p>New Update 2.80</p>
+<li>Based on 2.19.216.</li>
+<li>Enabled fingerprint lock & all hidden features.</li>
+<li>Added option to hide "forwarded" when forward a message.</li>
+<li>Added option to show toast when anyone views your story.</li>
+<li>Added option to create WAPro shortcut with changing the name.</li>
+<li>Improved lock UI (Pattern & PIN) + General improvements.</li>
+<li>Fixed the crush in the chat screen on some devices.</li>
+<li>Supported Azerbaijani.</li>
+
+
+","url":"http://wassemsy.com/wapro/index.php"
+}
