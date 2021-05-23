@@ -1,16 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <menu>
 	<item>
 		<ID>1</ID>
 		<Title>باكيت 1970 قصير أزرق</Title>
-		<ImageProduct>http://</ImageProduct>
 		<CurrentValue>1200</CurrentValue>
 		<OldValue>1800</OldValue>
 	</item>
-	<ads>
-		<image>http://dollar-lira.com/syrian-exchange/sep-ad.jpg</image>
-		<link>fb://page/619766934744227</link>
-		<link2>https://www.facebook.com/syrianexchangeprices/</link2>
-	</ads>
-	<lastEdit>2021/05/23 08:05 AM</lastEdit>
+	<item>
+		<ID>2</ID>
+		<Title>باكيت 1970 قصير أزرق</Title>
+		<CurrentValue>1200</CurrentValue>
+		<OldValue>1800</OldValue>
+	</item>
+	<item>
+		<ID>3</ID>
+		<Title>باكيت 1970 قصير أزرق</Title>
+		<CurrentValue>1200</CurrentValue>
+		<OldValue>1800</OldValue>
+	</item>
+	<item>
+		<ID>4</ID>
+		<Title>باكيت 1970 قصير أزرق</Title>
+		<CurrentValue>1200</CurrentValue>
+		<OldValue>1800</OldValue>
+	</item>
+	<item>
+		<ID>5</ID>
+		<Title>باكيت 1970 قصير أزرق</Title>
+		<CurrentValue>1200</CurrentValue>
+		<OldValue>1800</OldValue>
+	</item>
 </menu>
