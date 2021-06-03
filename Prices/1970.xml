@@ -1,34 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
+	<LastUpdate>01/06/2021 - 12:00 AM</LastUpdate>
 	<item>
 		<Title>باكيت 1970 قصير أزرق</Title>
 		<CurrentValue>1200</CurrentValue>
 		<OldValue>1100</OldValue>
+		<ImageProduct>https://i.ibb.co/jrBys1q/image.png</ImageProduct>
 	</item>
 	<item>
 		<Title>باكيت 1970 قصير أزرق</Title>
 		<CurrentValue>1200</CurrentValue>
 		<OldValue>1800</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
 		<Title>باكيت 1970 قصير أزرق</Title>
 		<CurrentValue>1400</CurrentValue>
 		<OldValue>1500</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
 		<Title>باكيت 1970 قصير أزرق</Title>
 		<CurrentValue>1000</CurrentValue>
 		<OldValue>1000</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
 		<Title>باكيت 1970 قصير أزرق</Title>
 		<CurrentValue>1200</CurrentValue>
 		<OldValue>13300</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
 		<Title>باكيت 1970 قصير أزرق</Title>
 		<CurrentValue>13300</CurrentValue>
 		<OldValue>1000</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
-	<date>01/06/2021</date>
+	<item>
+		<Title>باكيت 1970 قصير أزرق</Title>
+		<CurrentValue>13300</CurrentValue>
+		<OldValue>1000</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
+	</item>
+	<item>
+		<Title>باكيت 1970 قصير أزرق</Title>
+		<CurrentValue>13300</CurrentValue>
+		<OldValue>1000</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
+	</item>
+	<item>
+		<Title>باكيت 1970 قصير أزرق</Title>
+		<CurrentValue>13300</CurrentValue>
+		<OldValue>1000</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
+	</item>
+	<item>
+		<Title>باكيت 1970 قصير أزرق</Title>
+		<CurrentValue>13300</CurrentValue>
+		<OldValue>1000</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
+	</item>
 </root>
