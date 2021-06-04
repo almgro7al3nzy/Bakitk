@@ -1,64 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-	<LastUpdate>04/06/2021 - 07:10 PM</LastUpdate>
+	<LastUpdate>05/06/2021 - 12:00 PM</LastUpdate>
 	<item>
-		<Title>باكيت 1970 قصير أزرق</Title>
-		<CurrentValue>33000</CurrentValue>
-		<OldValue>1100</OldValue>
+		<Title>باكيت 1970 طويل كرتون</Title>
+		<CurrentValue>1600</CurrentValue>
+		<OldValue>1600</OldValue>
 		<ImageProduct>https://i.ibb.co/jrBys1q/image.png</ImageProduct>
 	</item>
 	<item>
-		<Title>باكيت 1970 قصير أزرق</Title>
-		<CurrentValue>1200</CurrentValue>
-		<OldValue>1800</OldValue>
+		<Title>باكيت 1970 طويل ورق</Title>
+		<CurrentValue>1500</CurrentValue>
+		<OldValue>1500</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
+	</item>
+	<item>
+		<Title>باكيت 1970 قصير فضي</Title>
+		<CurrentValue>1400</CurrentValue>
+		<OldValue>1400</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
 		<Title>باكيت 1970 قصير أزرق</Title>
 		<CurrentValue>1400</CurrentValue>
-		<OldValue>1500</OldValue>
+		<OldValue>1400</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
-		<Title>باكيت 1970 قصير أزرق</Title>
-		<CurrentValue>1000</CurrentValue>
-		<OldValue>1000</OldValue>
+		<Title>باكيت 1970 كوين فضي</Title>
+		<CurrentValue>1400</CurrentValue>
+		<OldValue>1400</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
-		<Title>باكيت 1970 قصير أزرق</Title>
-		<CurrentValue>1200</CurrentValue>
-		<OldValue>13300</OldValue>
+		<Title>باكيت 1970 كوين أسود</Title>
+		<CurrentValue>1400</CurrentValue>
+		<OldValue>1400</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
-		<Title>باكيت 1970 قصير أزرق</Title>
-		<CurrentValue>13300</CurrentValue>
-		<OldValue>1000</OldValue>
+		<Title>باكيت 1970 كوين أزرق</Title>
+		<CurrentValue>1400</CurrentValue>
+		<OldValue>1400</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
-		<Title>باكيت 1970 قصير أزرق</Title>
-		<CurrentValue>13300</CurrentValue>
-		<OldValue>1000</OldValue>
+		<Title>باكيت 1970 سليم فضي</Title>
+		<CurrentValue>1400</CurrentValue>
+		<OldValue>1400</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
-		<Title>باكيت 1970 قصير أزرق</Title>
-		<CurrentValue>13300</CurrentValue>
-		<OldValue>1000</OldValue>
-		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
-	</item>
-	<item>
-		<Title>باكيت 1970 قصير أزرق</Title>
-		<CurrentValue>13300</CurrentValue>
-		<OldValue>1000</OldValue>
-		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
-	</item>
-	<item>
-		<Title>باكيت 1970 قصير أزرق</Title>
-		<CurrentValue>13300</CurrentValue>
-		<OldValue>1000</OldValue>
+		<Title>باكيت 1970 سليم أزرق</Title>
+		<CurrentValue>1400</CurrentValue>
+		<OldValue>1400</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 </root>
