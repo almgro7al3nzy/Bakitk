@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<LastUpdate>06/06/2021 - 12:00 PM</LastUpdate>
+	<item>
+		<Title>باكيت Alhamraa طويلة قديمة</Title>
+		<CurrentValue>1200</CurrentValue>
+		<OldValue>1200</OldValue>
+		<ImageProduct>https://i.ibb.co/jrBys1q/image.png</ImageProduct>
+	</item>
+	<item>
+		<Title>باكيت Alhamraa طويلة جديدة</Title>
+		<CurrentValue>1200</CurrentValue>
+		<OldValue>1200</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
+	</item>
+	<item>
+		<Title>باكيت Alhamraa طويلة بيضاء</Title>
+		<CurrentValue>1050</CurrentValue>
+		<OldValue>1050</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
+	</item>
+	<item>
+		<Title>باكيت Alhamraa قصيرة كرتون</Title>
+		<CurrentValue>900</CurrentValue>
+		<OldValue>900</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
+	</item>
+	<item>
+		<Title>باكيت Alhamraa قصيرة بيضاء</Title>
+		<CurrentValue>900</CurrentValue>
+		<OldValue>900</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
+	</item>
+	<item>
+		<Title>باكيت Alhamraa طويلة تصديرية</Title>
+		<CurrentValue>1000</CurrentValue>
+		<OldValue>1000</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
+	</item>
+</root>
