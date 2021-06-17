@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<LastUpdate>17/06/2021 - 12:00 AM</LastUpdate>
+	<item>
+		<Title>باكيت Kingdom طويل</Title>
+		<CurrentValue>1400</CurrentValue>
+		<OldValue>1400</OldValue>
+		<ImageProduct>https://i.ibb.co/jrBys1q/image.png</ImageProduct>
+	</item>
+	<item>
+		<Title>باكيت Kingdom كوين</Title>
+		<CurrentValue>1300</CurrentValue>
+		<OldValue>1300</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
+	</item>
+	<item>
+		<Title>باكيت Kingdom قصير</Title>
+		<CurrentValue>1300</CurrentValue>
+		<OldValue>1300</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
+	</item>
+</root>
