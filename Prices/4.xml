@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-	<LastUpdate>17/06/2021 - 12:00 AM</LastUpdate>
+	<LastUpdate>06/07/2021 - 12:00 AM</LastUpdate>
 	<item>
 		<Title>مزايا بحريني</Title>
 		<CurrentValue>26000</CurrentValue>
@@ -9,50 +9,56 @@
 	</item>
 	<item>
 		<Title>مزايا تفاحتين</Title>
-		<CurrentValue>26000</CurrentValue>
-		<OldValue>26000</OldValue>
+		<CurrentValue>46000</CurrentValue>
+		<OldValue>46000</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
 		<Title>مزايا مشكل</Title>
-		<CurrentValue>25000</CurrentValue>
-		<OldValue>25000</OldValue>
+		<CurrentValue>45000</CurrentValue>
+		<OldValue>45000</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
 		<Title>مزايا بوبو</Title>
-		<CurrentValue>26500</CurrentValue>
-		<OldValue>26500</OldValue>
+		<CurrentValue>46500</CurrentValue>
+		<OldValue>46500</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
 		<Title>مزايا كف</Title>
-		<CurrentValue>16000</CurrentValue>
-		<OldValue>16000</OldValue>
+		<CurrentValue>36000</CurrentValue>
+		<OldValue>36000</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
 		<Title>فاخر (مشكل)</Title>
-		<CurrentValue>28500</CurrentValue>
-		<OldValue>28500</OldValue>
+		<CurrentValue>48500</CurrentValue>
+		<OldValue>48500</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
 		<Title>كف صلاحية</Title>
-		<CurrentValue>17000</CurrentValue>
-		<OldValue>17000</OldValue>
+		<CurrentValue>37000</CurrentValue>
+		<OldValue>37000</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
 		<Title>ال ام باكيت</Title>
-		<CurrentValue>27000</CurrentValue>
-		<OldValue>27000</OldValue>
+		<CurrentValue>37000</CurrentValue>
+		<OldValue>37000</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
 		<Title>كف ال ام</Title>
-		<CurrentValue>16000</CurrentValue>
-		<OldValue>16000</OldValue>
+		<CurrentValue>36000</CurrentValue>
+		<OldValue>36000</OldValue>
+		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
+	</item>
+	<item>
+		<Title>تخلة</Title>
+		<CurrentValue>36000</CurrentValue>
+		<OldValue>36000</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 </root>
