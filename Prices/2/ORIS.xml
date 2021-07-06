@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-	<LastUpdate>17/06/2021 - 12:00 AM</LastUpdate>
+	<LastUpdate>06/07/2021 - 12:00 AM</LastUpdate>
 	<item>
 		<Title>باكيت ORIS سليم فضي</Title>
-		<CurrentValue>0000</CurrentValue>
-		<OldValue>0000</OldValue>
+		<CurrentValue>16500</CurrentValue>
+		<OldValue>16500</OldValue>
 		<ImageProduct>https://i.ibb.co/jrBys1q/image.png</ImageProduct>
 	</item>
 	<item>
 		<Title>باكيت ORIS سليم فريز</Title>
-		<CurrentValue>0000</CurrentValue>
-		<OldValue>0000</OldValue>
+		<CurrentValue>16500</CurrentValue>
+		<OldValue>16500</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 	<item>
 		<Title>باكيت ORIS سليم تفاحتين</Title>
-		<CurrentValue>0000</CurrentValue>
-		<OldValue>0000</OldValue>
+		<CurrentValue>16500</CurrentValue>
+		<OldValue>16500</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 		<item>
 		<Title>باكيت ORIS سليم شوكولا</Title>
-		<CurrentValue>0000</CurrentValue>
-		<OldValue>0000</OldValue>
+		<CurrentValue>16500</CurrentValue>
+		<OldValue>16500</OldValue>
 		<ImageProduct>https://i.ibb.co/7Wv65T4/image.png</ImageProduct>
 	</item>
 </root>
