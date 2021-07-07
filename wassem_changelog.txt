@@ -1,4 +1,4 @@
-{"version_code":xxx,"content":"
+{"version_code":100,"content":"
 
 
 <p>تحديث جديد 3.00</p>
@@ -9,5 +9,5 @@
 <li>Based on 2.20.47.</li>
 
 
-","url":"http://wassemsy.com/wapro/index.php"
+","url":"http://wassemsy.com/bakitk/index.php"
 }
